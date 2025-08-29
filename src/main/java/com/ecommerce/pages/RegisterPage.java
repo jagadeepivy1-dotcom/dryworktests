@@ -45,3 +45,4 @@ public class RegisterPage {
         driver.findElement(loginBtn).click();
     }
 }
+
